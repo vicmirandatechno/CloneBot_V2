@@ -1,7 +1,7 @@
 name: Deploy to Fly
 on: workflow_dispatch
 env:
-  FLY_API_TOKEN: $jWh0g6bFMUgadE4s6RgcR6uIIJdo4RyqTbMUBJm5b-A
+  FLY_API_TOKEN: PnJG0tQPZG1c-JBAn1R501b5FRWYgpPPniTa6jmDdk8
 jobs:
   deploy:
       name: Deploy to Fly
